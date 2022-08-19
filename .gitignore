@@ -1,2 +1,5 @@
 # Dependency directories
-.pgdata/
+.history/
+.idea
+.pgdata
+.env
